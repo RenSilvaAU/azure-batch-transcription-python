@@ -1,0 +1,10 @@
+Calldata/*
+**/data/chunks/*
+modelling/data/chunks/*
+**/.ipynb_checkpoints/
+**/__pycache__/
+**/models/
+**/.chunks/
+**/chunks
+.env
+
